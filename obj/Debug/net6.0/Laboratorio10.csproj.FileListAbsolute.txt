@@ -1,0 +1,15 @@
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\bin\Debug\net6.0\Laboratorio10.exe
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\bin\Debug\net6.0\Laboratorio10.deps.json
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\bin\Debug\net6.0\Laboratorio10.runtimeconfig.json
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\bin\Debug\net6.0\Laboratorio10.dll
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\bin\Debug\net6.0\ref\Laboratorio10.dll
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\bin\Debug\net6.0\Laboratorio10.pdb
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\obj\Debug\net6.0\Laboratorio10.csproj.AssemblyReference.cache
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\obj\Debug\net6.0\Laboratorio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\obj\Debug\net6.0\Laboratorio10.AssemblyInfoInputs.cache
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\obj\Debug\net6.0\Laboratorio10.AssemblyInfo.cs
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\obj\Debug\net6.0\Laboratorio10.csproj.CoreCompileInputs.cache
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\obj\Debug\net6.0\Laboratorio10.dll
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\obj\Debug\net6.0\ref\Laboratorio10.dll
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\obj\Debug\net6.0\Laboratorio10.pdb
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio10\obj\Debug\net6.0\Laboratorio10.genruntimeconfig.cache
