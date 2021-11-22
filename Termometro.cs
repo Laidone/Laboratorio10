@@ -28,6 +28,6 @@ public class Termometro
     }
     override public string ToString() 
     { 
-        return valor.ToString(); 
+        return "Valor corrente da temperatura: " + valor.ToString(); 
     } 
 }
